@@ -1,0 +1,10 @@
+customtkinter
+firebase-admin
+scapy
+zxcvbn
+seaborn
+scikit-learn
+graphviz
+IPython
+matplotlib
+
